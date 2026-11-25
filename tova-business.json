@@ -1,0 +1,60 @@
+{
+  "schema": 1,
+  "source": "tova-explore",
+  "generatedAt": "2026-11-25T08:35:41.075Z",
+  "slug": "lebakermen",
+  "name": "Le Bakermen Cafe and Bakery",
+  "city": "Christchurch",
+  "industry": {
+    "label": "Cafes",
+    "niche": "cafes",
+    "group": "Food & hospitality"
+  },
+  "contact": {
+    "phone": "+6434215496",
+    "email": "lebakermen@gmail.com",
+    "address": "187 Wigram Rd, Christchurch"
+  },
+  "social": {
+    "facebook": "https://www.facebook.com/127800294447066"
+  },
+  "about": {
+    "overview": "We’re all about great drinks, fresh bakes & feel-good food made with care.Le Bakerman offers the perfect space to unwind and enjoy delicious, handcrafted flavor",
+    "tagline": "Le Bakerman"
+  },
+  "before": {
+    "url": "http://www.LeBakermen.co.nz/",
+    "domain": "lebakermen.co.nz",
+    "finalUrl": "http://www.lebakermen.co.nz/",
+    "title": "Le Bakerman",
+    "pages": 1,
+    "score": 41,
+    "assessedAt": "2026-11-23T13:22:32.422Z",
+    "issues": [
+      {
+        "id": "no-https",
+        "title": "Not served over HTTPS",
+        "evidence": "Final URL is http://www.lebakermen.co.nz/. Browsers label this site \"Not secure\"."
+      },
+      {
+        "id": "no-contact-path",
+        "title": "No easy way to get in touch",
+        "evidence": "No tap-to-call link and no enquiry form on the homepage."
+      },
+      {
+        "id": "no-schema",
+        "title": "No local-business search markup",
+        "evidence": "No structured data, so Google has less to show for the business."
+      }
+    ],
+    "screenshot": "screenshots/before-desktop.jpg"
+  },
+  "ours": {
+    "pagesUrl": "https://tova-studio.github.io/le-bakermen-cafe-and-bakery/",
+    "repoUrl": "https://github.com/tova-studio/le-bakermen-cafe-and-bakery",
+    "generator": "claude",
+    "accent": "#774530",
+    "screenshot": "screenshots/after-desktop.jpg",
+    "publishedAt": "2026-11-25T08:35:41.075Z"
+  }
+}
